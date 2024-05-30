@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/blindschool_v1/static/css/main.5f545704.css",
+    "main.js": "/blindschool_v1/static/js/main.60087b9f.js",
+    "static/js/453.d855a71b.chunk.js": "/blindschool_v1/static/js/453.d855a71b.chunk.js",
+    "static/media/slider2.png": "/blindschool_v1/static/media/slider2.e4987f2f5d1a6a59af71.png",
+    "static/media/slider1.png": "/blindschool_v1/static/media/slider1.0c826343f123995a6226.png",
+    "static/media/slider3.png": "/blindschool_v1/static/media/slider3.c4e75a324161a926af41.png",
+    "index.html": "/blindschool_v1/index.html",
+    "main.5f545704.css.map": "/blindschool_v1/static/css/main.5f545704.css.map",
+    "main.60087b9f.js.map": "/blindschool_v1/static/js/main.60087b9f.js.map",
+    "453.d855a71b.chunk.js.map": "/blindschool_v1/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f545704.css",
+    "static/js/main.60087b9f.js"
+  ]
+}
